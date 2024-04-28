@@ -1,5 +1,5 @@
 name: rounded_bottom_bar_flutter
-description: "A new Flutter package project."
+description: "A Flutter package for both android and iOS which provides Rounded bottom bar"
 version: 0.0.1
 homepage: https://github.com/mhmdelngar/rounded_bottom_bar
 
