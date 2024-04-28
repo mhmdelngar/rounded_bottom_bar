@@ -12,7 +12,8 @@ and the Flutter guide for
 -->
 
 RoundedBottomBar for Flutter is a sleek and adaptable Flutter package crafted to simplify the integration of rounded bottom navigation bars into Flutter applications. With its contemporary design and robust features, this package enables developers to seamlessly incorporate rounded bottom navigation bars, supporting both SVG icons via RoundedBottomBarSVG and icon data via RoundedBottomBar.
-![Uploading gif.gif…]()
+![gif](https://github.com/mhmdelngar/rounded_bottom_bar/assets/66909471/76ba823c-8bfd-431f-b75a-a086f00648e0)
+
 
 ## Features
 
